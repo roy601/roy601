@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurba Roy</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Mobile POS Software**
+- 🔭 I’m currently working on **POS Software**
 
 - 🌱 I’m currently learning **React, Typescript**
 
