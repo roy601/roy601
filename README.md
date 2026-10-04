@@ -29,7 +29,7 @@ const apurba = {
   location: "Dhaka, Bangladesh 🇧🇩",
   education: "BSc CS @ BRAC University (Final Year)",
   currentWork: "POS Software — Mobile Shop Management System",
-  research: "Transformer-Enhanced MARL for Adaptive Honeypot Deception",
+  research: "Cyber-Security",
   learning: ["React", "TypeScript", "Deep Learning"],
   contact: "apurbor39@gmail.com",
   funFact: "I turn chai ☕ into code 🚀"
